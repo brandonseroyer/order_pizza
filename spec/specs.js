@@ -6,7 +6,7 @@ describe("Pizza", function() {
     expect(myPizza.quantity).to.equal(1);
   });
 
-  it('calculates the total price of order', function() {
+  it('calculates the total price of the customized order', function() {
     var myPizza = new Pizza("Large", "Pepperoni", 1);
     expect(myPizza.totalPrice()).to.equal(18);
   });

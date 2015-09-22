@@ -2,3 +2,8 @@
 #result {
   display: none;
 }
+
+.jumbotron {
+  margin-bottom: 1px;
+  text-shadow: black 0.1em 0.1em 0.3em;
+}
