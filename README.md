@@ -5,7 +5,6 @@
 #### By **Brandon Seroyer**
 
 ## This program allows a user to make a customized pizza order by selecting size, toppings, and number of pizzas.
-# Warning: App currently is not functional
 
 ## Technology Used
 * Created using JavaScript, CSS/Bootstrap, HTML and JQUERY for the front-end.
